@@ -1,0 +1,29 @@
+Put your reproducible document in your github account and provide a link to that document.  Your peers should be able to download and knit your document without errors.
+
+This portion of the assignment will be graded as follows:
+
+Did the student provide a working link to their document on Github? - Yes, 10 points. No, 0 points. 
+
+Was the report reproducible?  Yes, 10 points; I had to modify it slightly to get it to knit, 5 points; No, 0 points
+
+https://example.com
+
+Import, tidy and analyze the COVID19 dataset from the Johns Hopkins github site. This is the same dataset I used in class. Feel free to repeat and reuse what I did if you want to.  Be sure your project is reproducible and contains some visualization and analysis that is unique to your project. You may use the data to do any analysis that is of interest to you. You should include at least two visualizations and one model.  Be sure to identify any bias possible in the data and in your analysis.  
+
+This part of the assignment will be graded as follows:
+
+Results are reproducible Yes, 10 points; I had to modify it slightly to get it to knit, 5 points; No, 0 points
+
+Report contains a clear statement of the question of interest? Yes 5 points, No 0 points
+
+Was the source and a short description of the data provided? Yes 5 points, No 0 points
+
+Report contains at least 2 visualizations Yes 20 points, Only 1 or visualizations not understandable 10 points, No visualizations 0 points
+
+Report is clearly written and free of grammatical errors: Yes 10 points, Mostly but has some errors or parts are difficult to follow 5 points, No - I could not understand what they were saying or they included almost no text explaining what they found 0 points
+
+Report contains at least one model of the data: Yes 10 points; Yes, but it was not a valid model 5 points; No 0 points
+
+Report contained an analysis beyond what was done in the class lectures Yes 20 points, Yes but it was not valid 10 points, No 0 points
+
+Did the report have a conclusion and were possible sources of bias identified?  Yes to both 20 points, Only one of conclusion or bias presented 10 points, No 0 points.
